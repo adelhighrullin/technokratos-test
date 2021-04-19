@@ -1,6 +1,6 @@
 ![gif](https://github.com/adelhighrullin/technokratos-test/blob/master/test/test.gif)
 
-Выполнение технического задания от компании Технократия (https://docs.google.com/document/d/1dU9Tj1FpjSUnXfCb-GsREUCbXSU5QHsHdf0ezm9yqC4).
+Выполнение технического задания от компании Технократия.
 
 Заменено:
 * Ссылка на юзерпик редиректится на другой веб-сайт, таким образом невозможно получить изображение. Вместо этого использовано https://thispersondoesnotexist.com/image.
